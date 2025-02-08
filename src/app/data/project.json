@@ -1,0 +1,36 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "title":"To-Do List App",
+            "slug":"to-do app",
+            "description":"Plan and track your dailly activities with our to-do app",
+            "isFeatured":true,
+            "image":" "
+        },
+        {
+            "id": 2,
+            "title": "E-Commerce Website",
+            "slug": "e-commerce-website",
+            "description": "An online platform for buying and selling products easily.",
+            "isFeatured": true,
+            "image": "ecommerce.png"
+        },
+        {
+            "id": 3,
+            "title": "Portfolio Website",
+            "slug": "portfolio-website",
+            "description": "Showcase your work and skills with a personal portfolio website.",
+            "isFeatured": false,
+            "image": "portfolio.png"
+        },
+        {
+            "id": 4,
+            "title": "Expense Tracker",
+            "slug": "expense-tracker",
+            "description": "Monitor your expenses and manage your budget effectively.",
+            "isFeatured": true,
+            "image": "expense-tracker.png"
+        }
+    ]
+}
