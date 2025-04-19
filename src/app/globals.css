@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Root variables for color modes */
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -14,8 +15,30 @@
   }
 }
 
+/* Apply theme variables globally */
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+/* Set base box-sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Prevent fixed navbar from hiding section headings */
+[id] {
+  scroll-margin-top: 100px; /* Adjust this to match navbar height */
+}
+
+/* Optional: Nice selection color */
+::selection {
+  background: rgba(59, 130, 246, 0.4); /* Tailwind's blue-500 with opacity */
+  color: #ffffff;
 }

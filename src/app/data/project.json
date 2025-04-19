@@ -1,36 +1,211 @@
 {
-    "projects":[
+    "personalInfo": {
+      "displayName": "",
+      "name": "Kiara Malhotra",
+      "contactNumber": "9364123456",
+      "email": "kiaramalhotra@gmail.com",
+      "socialMedia": {
+        "linkedIn": "https://www.linkedin.com/in/deepakpahawa/",
+        "github": "",
+        "youtube": "https://www.linkedin.com/in/deepakpahawa/",
+        "xdotcom": "https://www.linkedin.com/in/deepakpahawa/",
+        "instagram": "https://www.linkedin.com/in/deepakpahawa/",
+        "facebook": "https://www.linkedin.com/in/deepakpahawa/"
+      },
+      "resumeName": "Deepak Pahawa_CV.docx",
+      "gender": "Female"
+    },
+    "skillsInfo": {
+      "displayName": "Specialization",
+      "skills": [
         {
-            "id":1,
-            "title":"To-Do List App",
-            "slug":"to-do app",
-            "description":"Plan and track your dailly activities with our to-do app",
-            "isFeatured":true,
-            "image":" "
+          "name": "Content Marketing",
+          "rating": 8.5
         },
         {
-            "id": 2,
-            "title": "E-Commerce Website",
-            "slug": "e-commerce-website",
-            "description": "An online platform for buying and selling products easily.",
-            "isFeatured": true,
-            "image": "ecommerce.png"
+          "name": "Social Media Marketing",
+          "rating": 8.5
         },
         {
-            "id": 3,
-            "title": "Portfolio Website",
-            "slug": "portfolio-website",
-            "description": "Showcase your work and skills with a personal portfolio website.",
-            "isFeatured": false,
-            "image": "portfolio.png"
+          "name": "Search Engine Marketing",
+          "rating": 8.5
         },
         {
-            "id": 4,
-            "title": "Expense Tracker",
-            "slug": "expense-tracker",
-            "description": "Monitor your expenses and manage your budget effectively.",
-            "isFeatured": true,
-            "image": "expense-tracker.png"
+          "name": "Search Engine Optimization",
+          "rating": 8.5
+        },
+        {
+          "name": "Conversion Rate Optimization",
+          "rating": 8.5
+        },
+        {
+          "name": "Web Analytics",
+          "rating": 8.5
+        },
+        {
+          "name": "Email Marketing",
+          "rating": 8.5
+        },
+        {
+          "name": "Marketing Automation Specialist",
+          "rating": 8.5
         }
-    ]
-}
+      ],
+      "showMovingSkills": true
+    },
+    "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Kiara.",
+    "introduction": "Digital Marketer, Social Media Specialist, Brand Creation Specialist, Content Marketing Specialist, Affiliate Marketing Manager",
+    "description": "Creative digital marketer crafting compelling brand narratives. I elevate your online presence with strategic content & targeted campaigns. Let's make your brand unforgettable."
+  },
+    "projectsInfo": {
+  "projects": [
+    {
+      "timeline": "Jul'04-Jun'07",
+      "projectName": "Intuit Quickbooks Online",
+      "headline1": "Developed the Cart feature using ReactJS and Micro Front Ends.",
+      "headline2": "Implemented seamless checkout and optimized user experience.",
+      "designation": "Software Engineer",
+      "link": {
+        "linkUrl": "https://originui.com/badge",
+        "linkText": "Click here for the Project"
+      },
+      "cover": "",
+      "skills": "ReactJS, TypeScript, Redux, PWA",
+      "companyName": "Intuit",
+      "clientName": "",
+      "images": [
+        {
+          "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+          "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+        },
+        {
+          "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
+          "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
+        },
+        {
+          "fileName": "NewLogo.jpeg",
+          "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/NewLogo.jpeg"
+        }
+      ],
+      "rank": "1"
+    },
+    {
+      "timeline": "2022-24",
+      "projectName": "Lowe's Cart",
+      "headline1": "Led development of Cart feature in ReactJS with Micro Front Ends.",
+      "headline2": "Enhanced performance and user experience for seamless shopping.",
+      "designation": "Lead Software Engineer",
+      "link": "",
+      "cover": "",
+      "skills": "ReactJS, TypeScript, Redux, PWA",
+      "companyName": "Lowe's",
+      "clientName": "",
+      "images": [
+        {
+          "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+          "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+        }
+      ],
+      "rank": "2"
+    },
+    {
+        "timeline": "2018-2021",
+        "projectName": "Tesla E-commerce",
+        "headline1": "Built a high-performance e-commerce platform for Tesla.",
+        "headline2": "Optimized for mobile and seamless payment integration.",
+        "designation": "Frontend Engineer",
+        "link": {
+          "linkUrl": "https://tesla.com/shop",
+          "linkText": "View Tesla Store"
+        },
+        "cover": "",
+        "skills": "Next.js, Tailwind CSS, Stripe API",
+        "companyName": "Tesla",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "tesla_project.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/NewLogo.jpeg"
+          }
+        ],
+        "rank": "3"
+      },
+      {
+        "timeline": "2015-2017",
+        "projectName": "Microsoft Teams UI Overhaul",
+        "headline1": "Redesigned Microsoft Teams interface with a modern UX approach.",
+        "headline2": "Boosted user adoption by 30% through a better UI/UX experience.",
+        "designation": "UI Engineer",
+        "link": {
+          "linkUrl": "https://microsoft.com/teams",
+          "linkText": "Check Teams Redesign"
+        },
+        "cover": "",
+        "skills": "React, TypeScript, Figma, Material UI",
+        "companyName": "Microsoft",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "microsoft_teams_ui.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
+        ],
+        "rank": "4"
+      },
+      {
+        "timeline": "2012-2015",
+        "projectName": "Apple iCloud Dashboard",
+        "headline1": "Developed an intuitive dashboard for Apple iCloud users.",
+        "headline2": "Enhanced security and multi-device synchronization features.",
+        "designation": "Software Engineer",
+        "link": {
+          "linkUrl": "https://apple.com/icloud",
+          "linkText": "Explore iCloud"
+        },
+        "cover": "",
+        "skills": "Vue.js, Node.js, AWS",
+        "companyName": "Apple",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "apple_icloud.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
+          }
+        ],
+        "rank": "5"
+      }
+  ]
+},
+    "qualificationInfo": {
+      "displayName": "Qualifications",
+      "qualifications": [
+        {
+          "timeline": "2004-07",
+          "courseName": "Bachelor of CO",
+          "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
+          "specializedIn": "Mathematics, Physics, Chemistry",
+          "yearPassout": "2007",
+          "headline1": "Pursued B.SC specialized in Mathematics",
+          "headline2": "Won Mathematics quiz as 1st Prize",
+          "cgpa": "9.5",
+          "link": {
+            "linkText": "Degree",
+            "linkUrl": "https://github.com/"
+          },
+          "images": [
+            {
+              "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
+              "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
+            },
+            {
+              "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+              "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+            }
+          ],
+          "rank": "3"
+        }
+      ]
+    }
+  }
