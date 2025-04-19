@@ -1,4 +1,4 @@
-import { Spotlight } from "@/app/components/ui/Spotlight";
+
 import type { Config } from "tailwindcss";
 const colors = require("tailwindcss/colors");
 
